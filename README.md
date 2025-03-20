@@ -21,6 +21,6 @@ Método 2 (alias)
 git clone https://github.com/k731n/iplist.git
 cd iplist
 chmod +x iplist.sh
-echo 'alias iplist="'$(pwd)'/iplist.sh >> ~/.zshrc"'
+echo 'alias iplist="'$(pwd)'/iplist.sh"' >> ~/.zshrc
 source ~/.zshrc
 ```
