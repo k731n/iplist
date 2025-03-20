@@ -6,16 +6,6 @@ Esta herramienta sirve para listar las interfaces disponibles de una manera más
 ![Muestra del script2](https://i.ibb.co/TzbcDxR/imagen.png)
 
 ### Instalación 
-Método 1 (path)
-
-```bash
-git clone https://github.com/k731n/iplist.git
-cd iplist
-chmod +x iplist.sh
-sudo cp iplist.sh /usr/bin/iplist 
-```
-
-Método 2 (alias)
 
 ```bash
 git clone https://github.com/k731n/iplist.git
