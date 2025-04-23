@@ -16,10 +16,10 @@ This tool lists available interfaces in a more visually appealing way than usual
 #### Silent mode:
 
 ![image](https://github.com/user-attachments/assets/7ec188a3-e8eb-4390-b18b-d052cbf544ac)
----
-### Install 
 
-#### Zsh
+## Install 
+
+### Zsh
 
 ```bash
 git clone https://github.com/k731n/iplist.git
@@ -29,7 +29,7 @@ echo 'alias iplist="'$(pwd)'/iplist.sh"' >> ~/.zshrc
 source ~/.zshrc
 ```
 
-#### Bash
+### Bash
 
 ```bash
 git clone https://github.com/k731n/iplist.git
