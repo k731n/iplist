@@ -20,10 +20,22 @@ This tool lists available interfaces in a more visually appealing way than usual
 
 ## Install 
 
+### Zsh
+
 ```bash
 git clone https://github.com/k731n/iplist.git
 cd iplist
 chmod +x iplist.sh
 echo 'alias iplist="'$(pwd)'/iplist.sh"' >> ~/.zshrc
 source ~/.zshrc
+```
+
+### Bash
+
+```bash
+git clone https://github.com/k731n/iplist.git
+cd iplist
+chmod +x iplist.sh
+echo 'alias iplist="'$(pwd)'/iplist.sh"' >> ~/.bashrc
+source ~/.bashrc
 ```
