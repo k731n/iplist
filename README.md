@@ -1,9 +1,20 @@
 # iplist
-Esta herramienta sirve para listar las interfaces disponibles de una manera más atractiva visualmente que la habitual, y nos permite copiar la que necesitemos de una forma muy sencilla. Como verás, no es para solucionarte la vida pero sí es muy práctica cuándo solo nos interesa copiar una IP o ver las interfaces que tenemos disponibles y si tienen asignada o no una IP.
+This tool lists available interfaces in a more visually appealing way than usual, and allows us to copy the IP address we need very easily. As you'll see, it's not going to make your life easier, but it's very useful when we're just interested in copying an IP address or seeing the interfaces we have available and whether or not they have an IP address assigned.
 
-![Muestra del script](https://i.ibb.co/d450Q2vS/imagen.png)
+![Muestra del script](https://github.com/user-attachments/assets/7fd53fdf-8e1b-4207-9e77-0d8abe923c8f)
 
-![Muestra del script2](https://i.ibb.co/TzbcDxR/imagen.png)
+![Muestra del script2](https://github.com/user-attachments/assets/c3d6b7b8-7fbf-4d54-a2e0-dcfbd8a46d3b)
+
+![Muestra del script](https://github.com/user-attachments/assets/eb36bf8b-401e-4714-85a2-e19ae872030e)
+
+
+![Muestra del script](https://github.com/user-attachments/assets/bbf9f750-5f8e-4b74-a47c-3261b0e3e243)
+
+Silent mode:
+
+![Muestra del script](https://github.com/user-attachments/assets/1b626d7d-3663-49ff-9cd9-259ec91ffe21)
+
+
 
 ### Instalación 
 
