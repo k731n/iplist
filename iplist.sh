@@ -154,8 +154,6 @@ if [ -z "$1" ]; then
     broadcast=$(ifconfig | grep -A 1 "$interface:" | tail -n 2 | awk 'NR == 2' | grep "inet"  | awk '{print $6}')
     broadcast_bar=$(echo -e "${greenColour} ════════ ${endColour}")
 
-    mac=$(═══ip link show "eth0" | awk '/link\/ether/ {print $2}' | xargs)
-
     indexed_interfaces["$i"]="$interface"
 
 
