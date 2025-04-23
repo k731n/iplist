@@ -3,7 +3,7 @@ This tool lists available interfaces in a more visually appealing way than usual
 
 ![Muestra del script2](https://github.com/user-attachments/assets/c3d6b7b8-7fbf-4d54-a2e0-dcfbd8a46d3b)
 
-Example:
+### Example:
 
 ![Muestra del script](https://github.com/user-attachments/assets/35af5272-ffa2-4feb-a24a-2943c04b52e7)
 
@@ -13,12 +13,12 @@ Example:
 
 ![image](https://github.com/user-attachments/assets/dcd554c5-8b5f-4873-b657-9fe3dd0bdf94)
 
-Silent mode:
+### Silent mode:
 
 ![image](https://github.com/user-attachments/assets/7ec188a3-e8eb-4390-b18b-d052cbf544ac)
 
 
-### Install 
+## Install 
 
 ```bash
 git clone https://github.com/k731n/iplist.git
