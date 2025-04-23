@@ -17,6 +17,7 @@ This tool lists available interfaces in a more visually appealing way than usual
 
 ![image](https://github.com/user-attachments/assets/7ec188a3-e8eb-4390-b18b-d052cbf544ac)
 
+
 ## Install 
 
 ### Zsh
