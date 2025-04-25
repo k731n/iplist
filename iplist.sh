@@ -36,7 +36,7 @@ function helpPanel(){
   echo -e "${purpleColour}[*]${endColour} ${grayColour}Format${endColour}${greenColour}:${endColour}"
   echo -e "\t\t${purpleColour}╭─[Interface ID] ${endColour}${grayColour}Interface ${endColour}${greenColour}════════ ${endColour}${grayColour}IP ${endColour}${greenColour}════════ ${endColour}${grayColour}Netmask ${endColour}${greenColour}════════ ${endColour}${grayColour}Broadcast IP ${endColour}${purpleColour}[Interface ID]─╮${endColour}\n"
   echo -e "${purpleColour}[*] ${endColour}${grayColour}Use${endColour}${greenColour}:${endColour}"
-  printf "\t${grayColour}%-35s${endColour}${greenColour} ---> ${endColour}${grayColour} %b%s${endColour}\n" \
+  printf "\t${grayColour}%-28s${endColour}${greenColour} ---> ${endColour}${grayColour} %b%s${endColour}\n" \
     "$0" "${purpleColour}List ${endColour}${grayColour}all interfaces and an ${endColour}${purpleColour}[ID]${endColour} ${grayColour}for easy copy${endColour}"
   printf "\t${grayColour}%s ${endColour}${purpleColour}%-16s${endColour}${greenColour} ---> ${endColour}${grayColour} %b%s${endColour}\n" \
     "$0" "<id>" "${purpleColour}Copy ${endColour}${grayColour}IP(s) of the selected ${endColour}${purpleColour}interface(s) ID(s) ${endColour}${grayColour}to clipboard${endColour}"
@@ -47,7 +47,7 @@ function helpPanel(){
   printf "\t${grayColour}%s ${endColour}${purpleColour}%-15s ${endColour} ${greenColour}---> ${endColour}${grayColour} %b%s${endColour}\n" \
     "$0" "-a" "${purpleColour}Copy all ${endColour}${grayColour}interfaces IPs to clipboard${endColour}"
   printf "\t${grayColour}%s ${endColour}${purpleColour}%-16s${endColour}${greenColour} ---> ${endColour}${grayColour} %b%s${endColour}\n" \
-    "$0" "-h" "${purpleColour}Show${endColour}${grayColour} this panel                                                   ${endColour}${grayColour}${italic}by ${noItalic}${endColour}${redColour}${italic}k731n${noItalic}${endColour}"
+    "$0" "-h" "${purpleColour}Show${endColour}${grayColour} this panel                                                          ${endColour}${grayColour}${italic}by ${noItalic}${endColour}${redColour}${italic}k731n${noItalic}${endColour}"
   #echo -e "${grayColour}${italic}by ${noItalic}${endColour}${redColour}${italic}k731n${noItalic}${endColour}"
   echo -e "\n${greenColour}╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ ${endColour}\n"
 }
